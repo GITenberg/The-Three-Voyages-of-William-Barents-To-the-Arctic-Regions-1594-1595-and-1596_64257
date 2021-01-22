@@ -1,5 +1,5 @@
 _repo: The-Three-Voyages-of-William-Barents-To-the-Arctic-Regions-1594-1595-and-1596_64257
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Beynen, L. R. Koolemans
@@ -9,12 +9,17 @@ contributor:
     agent_name: Beke, Charles T.
     gutenberg_agent_id: '52822'
     url: http://www.gutenberg.org/2009/agents/52822
+covers:
+- cover_type: archival
+  image_path: 64257-h/images/front-cover.jpg
 creator:
   author:
     agent_name: Veer, Gerrit de
     gutenberg_agent_id: '52821'
     url: http://www.gutenberg.org/2009/agents/52821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64257#The-Three-Voyages-of-William-Barents-To-the-Arctic-Regions-1594-1595-and-1596
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
